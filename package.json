@@ -1,0 +1,15 @@
+{
+  "name": "jquery-nested",
+  "version": "1.0.1",
+  "main": [
+    "style.css",
+    "jquery.nested.js"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
